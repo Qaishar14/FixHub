@@ -33,7 +33,7 @@ class DetailProdukPage extends StatelessWidget {
         flexibleSpace: Container(
           decoration: const BoxDecoration(
             gradient: LinearGradient(
-              colors: [Colors.cyan, Colors.cyanAccent],
+              colors: [Color(0xFF00C9FF), Color(0xFF92FE9D)],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
             ),
@@ -219,7 +219,7 @@ class DetailProdukPage extends StatelessWidget {
                   child: Ink(
                     decoration: BoxDecoration(
                       gradient: const LinearGradient(
-                        colors: [Colors.cyan, Colors.cyanAccent],
+                        colors: [Color(0xFF00C9FF), Color(0xFF92FE9D)],
                         begin: Alignment.centerLeft,
                         end: Alignment.centerRight,
                       ),
