@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562166204765",
+    "project_id": "konterhp-6619a",
+    "storage_bucket": "konterhp-6619a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562166204765:android:247e0dd1ce3a8dcd8680b4",
+        "android_client_info": {
+          "package_name": "com.example.konterhp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSi93BR0XNo3SkIToVLh9QL4hyAa71yTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
